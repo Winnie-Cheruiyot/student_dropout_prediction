@@ -5,11 +5,11 @@ This is a machine learning web app that predicts whether a student will **Dropou
 ---
 
 ## 🚀 Features
-
+- check here (https://student-drop-out-prediction.streamlit.app/)
 - Predicts student outcomes using profile features like age, GPA, tuition status, etc.
 - Easy-to-use web interface inside Jupyter Notebook (no browser tabs needed).
 - Powered by streamlit, Scikit-learn model and pre-processing tools.
-
+  
 ---
 
 ## 📦 Requirements
