@@ -76,9 +76,5 @@ MIT License
 ## 👤 Authors
 
 - Winnie Cheruiyot
-- Julian Ayesa
-- Delmaine Hoggins
-- Harun M. 
-- Nice Abere
 
 
